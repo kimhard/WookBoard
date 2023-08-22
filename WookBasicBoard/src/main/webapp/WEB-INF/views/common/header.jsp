@@ -37,7 +37,7 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="${contextPath}/">Home</a></li>
+        <li class="active"><a href="${contextPath}/">Wook Blog</a></li>
         <li><a href="boardMain.do">게시판</a></li>            
       </ul>
      <security:authorize access ="isAnonymous()">
